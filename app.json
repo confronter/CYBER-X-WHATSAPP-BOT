@@ -17,12 +17,12 @@
             "value": ""
         },
         "HEROKU_API_KEY": {
-            "description": "Enter your heroku account api key",
+            "description": "93752197-4766-47fc-9d04-96d81e5f293d",
             "required": true,
             "value": ""
         },
         "HEROKU_APP_NAME": {
-            "description": "Enter you pushed app Name",
+            "description": "koko9000",
             "required": true,
             "value": ""
         },
